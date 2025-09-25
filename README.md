@@ -4,5 +4,5 @@ SoftUni Back End Course Project
 ##TODOs
 
 - [x] Initialize NodeJS Project
-- [] Dev script
-- [] Debugging
+- [x] Dev script
+- [x] Debugging
