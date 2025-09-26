@@ -15,4 +15,7 @@ SoftUni Back End Course Project
 - [x] Read Home html file from file system
 - [x] Read site css from file system
 - [x] Add breed page
-- [] Add create page
+- [x] Add create page
+- [x] Render view generic function
+- [] Render dynamic cats on home page
+- [] Add cats from add-cats page
