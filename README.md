@@ -9,5 +9,8 @@ SoftUni Back End Course Project
 - [x] Add basic http server
 - [x] Add resources
 - [x] Show home page
+- [x] Add CSS
 - [x] Create a js file with html
 - [x] Create a js file with css
+- [x] Read Home html file from file system
+- [x] Read site css from file system
