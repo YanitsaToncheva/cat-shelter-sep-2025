@@ -10,3 +10,4 @@ SoftUni Back End Course Project
 - [x] Add resources
 - [x] Show home page
 - [x] Create a js file with html
+- [x] Create a js file with css
